@@ -1,0 +1,34 @@
+_repo: Sheila-of-Big-Wreck-Cove--A-Story-of-Cape-Cod_14563
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, James A.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5312'
+    url: http://www.gutenberg.org/2009/agents/5312
+description: ''
+gutenberg_issued: '2005-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+title: 'Sheila of Big Wreck Cove: A Story of Cape Cod'
+url: http://www.gutenberg.org/ebooks/14563
